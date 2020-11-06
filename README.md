@@ -37,11 +37,6 @@ FISCO BCOS采用相对安全可控的联盟链技术架构，创新性提出“�
 - **FISCO BCOS文档**：https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/
 - **文档国内镜像**：http://www.fisco-bcos.org/developer/
 
-**License**
-
-[![](https://img.shields.io/github/license/FISCO-BCOS/FISCO-BCOS.svg)](../LICENSE)
-
-FISCO BCOS的开源协议为[GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)。详情参见[LICENSE](https://github.com/FISCO-BCOS/FISCO-BCOS/blob/master/LICENSE)。  
 
 ## FISCO BCOS落地应用
 

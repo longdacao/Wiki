@@ -46,7 +46,6 @@ FISCO BCOS兴趣小组是由社区开发者自愿发起和加入，开放协作�
 
  FISCO BCOS上贸大兴趣小组
 
-了解更多
 
 
 
@@ -65,5 +64,5 @@ FISCO BCOS兴趣小组是由社区开发者自愿发起和加入，开放协作�
 
 ## 附件下载
 
-- FISCO BCOS兴趣小组章程
-- FISCO BCOS兴趣小组申请表单
+- [FISCO BCOS兴趣小组章程](https://share.weiyun.com/uqnCWFaf)
+- [FISCO BCOS兴趣小组申请表](https://share.weiyun.com/caYEWoWA)

@@ -3,7 +3,6 @@
 
 **FISCO BCOS**是首个由国内企业主导研发、对外开源、安全可控的企业级金融联盟链底层平台，由金融区块链合作联盟（深圳）（简称：金链盟）成立的开源工作组协作打造，于2017年12月正式对外开源，工作组成员包括博彦科技、华为、深证通、神州数码、四方精创、腾讯、微众银行、亦笔科技和越秀金科等。
 
-从业务适当性、性能、安全、技术可行性、运维与治理、成本等多个维度综合考虑后，FISCO BCOS选择联盟链技术方向，单链TPS可达万级。平台支持多种共识算法，如PBFT、Raft；提供易用的工具，开发者可在极短时间内完成联盟链部署；支持基于智能合约和多种业务模板开发应用；采用权限控制、隐私保护等策略保障业务安全和隐私。
 
 作为一个稳定、安全、高效、易用的联盟区块链底层技术平台，FISCO BCOS经过了外部多家机构、多个应用长时间生产环境运行的实践检验；目前社区已汇聚超1000家企业及机构、逾万名社区成员，数百个应用项目基于FISCO BCOS底层平台研发，超80个已在生产环境中稳定运行，含括政务、金融、公益、医疗、教育等多个关乎国计民生的业务场景。以开源链接多方，FISCO BCOS开源社区现已发展成为最大最活跃的国产开源联盟链生态圈。
 
@@ -38,6 +37,12 @@ FISCO BCOS采用相对安全可控的联盟链技术架构，创新性提出“�
 - **FISCO BCOS文档**：https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/
 - **文档国内镜像**：http://www.fisco-bcos.org/developer/
 
+**License**
+
+[![](https://img.shields.io/github/license/FISCO-BCOS/FISCO-BCOS.svg)](../LICENSE)
+
+FISCO BCOS的开源协议为[GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)。详情参见[LICENSE](https://github.com/FISCO-BCOS/FISCO-BCOS/blob/master/LICENSE)。  
+
 ## FISCO BCOS落地应用
 
 依托于金链盟百余家成员机构及开源社区多家参与企业的协同合作，FISCO BCOS开源社区近年来加速推动区块链在各类分布式商业应用场景的落地。 
@@ -55,13 +60,12 @@ FISCO BCOS采用相对安全可控的联盟链技术架构，创新性提出“�
 
 作为目前国内最大最活跃的国产开源联盟链生态圈，FISCO BCOS开源社区汇聚了众多企业机构与个人开发者，大家交流观点、碰撞想法，沟通学习区块链知识、获取区块链资讯、开拓区块链业务。
 
-- 社区开发者可基于共同的兴趣，自发成立[FISCO BCOS兴趣小组](https://github.com/blackflowerli/Wiki/blob/master/FISCO%20BCOS%E5%85%B4%E8%B6%A3%E5%B0%8F%E7%BB%84README.md)，推进FISCO BCOS技术进步和应用场景探索。
+- 社区开发者可基于共同的兴趣，自发成立[FISCO BCOS兴趣小组](https://github.com/blackflowerli/Wiki/blob/master/FISCO%20BCOS%E5%85%B4%E8%B6%A3%E5%B0%8F%E7%BB%84README.md)，围绕FISCO BCO开发新特性、工具等，不断推进FISCO BCOS技术进步和应用场景探索。
 
 
 小组团队照片/logo图案
 
 FISCO BCOS上贸大兴趣小组
-
 
 
 - 社区对100+开发教程进行汇编整理，绘制了覆盖入门→进阶→专家的[区块链学习路径](https://mp.weixin.qq.com/s/1RGKEdcGhZbjqKv7LBrAVA)。
@@ -79,15 +83,9 @@ FISCO BCOS上贸大兴趣小组
 
   优质的应用大赛资源
 
-FISCO BCOS开源社区建有多个技术交流群，广纳区块链极客，群内纯聊技术话题，定期分享硬核干货，探讨基于区块链技术的商业应用场景。欢迎您添加社区小助手加入交流。
+社区建有多个技术交流群，广纳区块链极客，群内纯聊技术话题，定期分享硬核干货，探讨基于区块链技术的商业应用场景。欢迎您添加社区小助手加入交流。
 
 
 ![](https://github.com/blackflowerli/Wiki/blob/master/图片素材/FB介绍6.png)
 
-
-## License
-
-[![](https://img.shields.io/github/license/FISCO-BCOS/FISCO-BCOS.svg)](../LICENSE)
-
-FISCO BCOS的开源协议为[GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)。详情参见[LICENSE](https://github.com/FISCO-BCOS/FISCO-BCOS/blob/master/LICENSE)。  
 

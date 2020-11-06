@@ -15,7 +15,7 @@
 
 **FISCO BCOS技术能力获多方认可**
 
-![](./FB介绍1.png)
+![](https://github.com/blackflowerli/Wiki/blob/master/图片素材/FB介绍1.png)
 
 - 基于FISCO BCOS底层平台研发的“基于区块链的机构间对账平台”荣获2017年度银行科技发展奖二等奖（主办方：中国人民银行科技司）；
 - “金融区块链底层平台FISCO BCOS”荣获2018年度深圳市金融科技专项奖一等奖（主办方：深圳市地方金融监督管理局）；

@@ -55,7 +55,7 @@ FISCO BCOS采用相对安全可控的联盟链技术架构，创新性提出“�
 
 作为目前国内最大最活跃的国产开源联盟链生态圈，FISCO BCOS开源社区汇聚了众多企业机构与个人开发者，大家交流观点、碰撞想法，沟通学习区块链知识、获取区块链资讯、开拓区块链业务。
 
-- 社区开发者可基于共同的兴趣，自发成立[FISCO BCOS兴趣小组](https://github.com/blackflowerli/Wiki/blob/master/FISCO%20BCOS%E5%85%B4%E8%B6%A3%E5%B0%8F%E7%BB%84)，推进FISCO BCOS技术进步和应用场景探索。
+- 社区开发者可基于共同的兴趣，自发成立[FISCO BCOS兴趣小组](https://github.com/blackflowerli/Wiki/blob/master/FISCO%20BCOS%E5%85%B4%E8%B6%A3%E5%B0%8F%E7%BB%84README.md)，推进FISCO BCOS技术进步和应用场景探索。
 
 
 小组团队照片/logo图案

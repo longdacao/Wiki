@@ -29,7 +29,7 @@ FISCO BCOS采用相对安全可控的联盟链技术架构，创新性提出“�
 
 **FISCO BCOS特性一览**
 
-![](https://github.com/blackflowerli/Wiki/blob/master/FB介绍2.png)
+![](https://github.com/blackflowerli/Wiki/blob/master/图片素材/FB介绍2.jpg)
 
 数十万行项目代码、20W+字技术文档，揭示更多技术特性。
 

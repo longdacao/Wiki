@@ -45,7 +45,7 @@ FISCO BCOS采用相对安全可控的联盟链技术架构，创新性提出“�
 
 基于FISCO BCOS联盟链底层平台搭建的应用已经覆盖政务、金融、公益、医疗、教育、交通、版权、商品溯源、供应链、招聘、农业、社交、游戏等多个领域，在实践中印证了平台的可行性与健壮性。
 
-![](https://github.com/blackflowerli/Wiki/blob/master/FB介绍3.png)
+![](https://github.com/blackflowerli/Wiki/blob/master/图片素材/FB介绍3.png)
 
 开源社区将各领域案例集结出品业界首部[《应用案例精编》](http://mp.weixin.qq.com/mp/homepage?__biz=MzA3MTI5Njg4Mw==&hid=1&sn=b84100f2e1f5ac6c23c48c23d487351c&scene=18#wechat_redirect)，为各行业区块链应用提供落地参考。
 
@@ -62,8 +62,6 @@ FISCO BCOS采用相对安全可控的联盟链技术架构，创新性提出“�
 
 FISCO BCOS上贸大兴趣小组
 
-了解更多
-
 
 
 - 社区对100+开发教程进行汇编整理，绘制了覆盖入门→进阶→专家的[区块链学习路径](https://mp.weixin.qq.com/s/1RGKEdcGhZbjqKv7LBrAVA)。
@@ -73,18 +71,18 @@ FISCO BCOS上贸大兴趣小组
 - 社区内不定期举办丰富的线上线下活动，提供优质的区块链应用大赛资讯，助力挖掘与推广优质区块链项目，推动区块链技术落地应用。各行业研发及业务团队，大学、研究所等科研机构，共同面向开源社区提供形式多样的支持。
 
    
-![](https://github.com/blackflowerli/Wiki/blob/master/FB介绍4.png)
+![](https://github.com/blackflowerli/Wiki/blob/master/图片素材/FB介绍4.png)
 
-丰富的线上线下社区活动
+  丰富的线上线下社区活动
 
-![](https://github.com/blackflowerli/Wiki/blob/master/FB介绍5.png)
+![](https://github.com/blackflowerli/Wiki/blob/master/图片素材/FB介绍5.png)
 
-优质的应用大赛资源
+  优质的应用大赛资源
 
 FISCO BCOS开源社区建有多个技术交流群，广纳区块链极客，群内纯聊技术话题，定期分享硬核干货，探讨基于区块链技术的商业应用场景。欢迎您添加社区小助手加入交流。
 
 
-![](https://github.com/blackflowerli/Wiki/blob/master/FB介绍6.png)
+![](https://github.com/blackflowerli/Wiki/blob/master/图片素材/FB介绍6.png)
 
 
 ## License

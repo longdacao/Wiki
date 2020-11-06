@@ -10,18 +10,6 @@
 
 [![CircleCI](https://circleci.com/gh/FISCO-BCOS/FISCO-BCOS.svg?style=shield)](https://circleci.com/gh/FISCO-BCOS/FISCO-BCOS)  [![Build Status](https://travis-ci.org/FISCO-BCOS/FISCO-BCOS.svg)](https://travis-ci.org/FISCO-BCOS/FISCO-BCOS)
 
-## 荣誉奖项
-
-**FISCO BCOS技术能力获多方认可**
-
-![](https://github.com/blackflowerli/Wiki/blob/master/图片素材/FB介绍1.png)
-
-- 基于FISCO BCOS底层平台研发的“基于区块链的机构间对账平台”荣获2017年度银行科技发展奖二等奖（主办方：中国人民银行科技司）；
-- “金融区块链底层平台FISCO BCOS”荣获2018年度深圳市金融科技专项奖一等奖（主办方：深圳市地方金融监督管理局）；
-- FISCO BCOS通过工信部信通院可信区块链评测，获颁“可信区块链功能测试”、“可信区块链性能测试”两项证明；
-- 2019年12月，由国家信息中心进行顶层规划的中国区块链服务网络(BSN)引入FISCO BCOS作为其适配的首个国产联盟链底层平台。
-- 2020年7月，在工信部中国电子技术标准化研究院主办的第四届中国区块链开发大赛上，10个获奖项目中有5个基于FISCO BCOS底层平台研发。
-
 ## FISCO BCOS核心技术
 
 FISCO BCOS采用相对安全可控的联盟链技术架构，创新性提出“一体两翼多引擎”的区块链架构，以满足企业级应用对区块链系统安全性、性能、可扩展性、可运维性和易用性等需求。该架构以并行计算模型和分布式存储模型为基础，在支持快速组建联盟和建链的同时，拥有更好的可扩展性和更丰富的功能特性。

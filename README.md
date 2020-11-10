@@ -40,7 +40,7 @@ FISCO BCOS采用相对安全可控的联盟链技术架构，创新性提出“�
 
 - 社区内不定期举办丰富的线上线下活动(全国巡回Meetup、黑客马拉松、社群每周举办的《超话区块链》等)，提供优质的区块链应用大赛资讯，助力挖掘与推广优质区块链项目，推动区块链技术落地应用。
 
-- 由社区开发者共创的[《深入浅出FISCO BCOS》](https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/docs/articles/index.html#id1)区块链教程上线社区文档库，涵盖了120+篇技术文章，将帮助社区开发者更好避开开发过程中遇到的各种问题；同时，开发者可以通过提PR的方式将自己的开发心得分享到文档上，让更多平台用户看到。
+- 由社区开发者共创的[《深入浅出FISCO BCOS》区块链教程](https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/docs/articles/index.html#id1)上线社区文档库，涵盖了120+篇技术文章，将帮助社区开发者更好避开开发过程中遇到的各种问题；同时，开发者可以通过提PR的方式将自己的开发心得分享到文档上，让更多平台用户看到。
 
 - 社区合作伙伴基于FISCO BCOS打造了就业性强、即学即用的系统化[培训认证课程](https://mp.weixin.qq.com/s/RykuhWD28AZAIV4KqvazPQ)，助力开发者快速掌握区块链技术技能，并获得权威技术认证，持证上岗。
 

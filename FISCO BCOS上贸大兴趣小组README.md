@@ -1,4 +1,4 @@
-FISCO BCOS上贸大兴趣小组由多所院校对区块链感兴趣的学生组成，致力于成为基于分布式管理逻辑的新型组织，打造以数字身份为核心的区块链产品矩阵。
+FISCO BCOS上贸大兴趣小组由多所院校对区块链感兴趣的学生自发成立，小组致力于围绕FISCO BCOS开源社区开源项目进行研究和应用研发，例如基于WeIdentity方案进行基础设施研发与应用研发，完善FISCO BCOS区块链开发工具箱等等。
 
 ## **小组成员**
 
@@ -39,8 +39,6 @@ FISCO BCOS上贸大兴趣小组由多所院校对区块链感兴趣的学生组�
 
 （2）腾讯会议间：6761735986
 
-- **往期会议回顾**
-
 
 
 ## **小组项目进展**
@@ -54,8 +52,13 @@ FISCO BCOS上贸大兴趣小组由多所院校对区块链感兴趣的学生组�
 
 ## **小组成果展示**
 
-- **开源项目**
+- **获奖情况**
+  - 小组参赛项目入选[2020年FinTechathon——微众银行第二届金融科技高校技术大赛前十名](https://mp.weixin.qq.com/s/Oa4zZnhQcfcJgPmQ_AhXDQ)
+  - 小组研发的《适用于FISCO BCOS的区块链开发工具箱》项目荣获[第四届中国区块链开发大赛二等奖](https://mp.weixin.qq.com/s/QyOt8RVQu-6rhENcfiv-iw)
+  - 小组研发的《WeIdentity的多签实现与限量CPT实现》项目入选[BSN第二次开发者大赛获奖作品](https://mp.weixin.qq.com/s/vtHW_K2eiSUXQ0iHe3gdGg)
+  
 
 - **系列文章**
+  - [《适用于FISCO BCOS的区块链开发工具箱》]（https://mp.weixin.qq.com/s/WVLGVCqMyWchcO0HyqdrLQ）
 
-  - [非营利组织治理](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0NTM0MzE5Mw==&action=getalbum&album_id=1547320485804326913&scene=173&from_msgid=2247484945&from_itemidx=1&count=10#wechat_redirect&scene=0&subscene=91&sessionid=1604670168&enterid=1604670179)
+

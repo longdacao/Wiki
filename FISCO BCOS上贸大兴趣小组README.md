@@ -58,7 +58,8 @@ FISCO BCOS上贸大兴趣小组由多所院校对区块链感兴趣的学生自�
   - 小组研发的《WeIdentity的多签实现与限量CPT实现》项目入选[BSN第二次开发者大赛获奖作品](https://mp.weixin.qq.com/s/vtHW_K2eiSUXQ0iHe3gdGg)
   
 
-- **系列文章**
-  - [《适用于FISCO BCOS的区块链开发工具箱》]（https://mp.weixin.qq.com/s/WVLGVCqMyWchcO0HyqdrLQ）
+- **开发心得**
+  - [多机部署-单群组双机构双节点组网模式实战](https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/docs/articles/7_community/group_deploy_case.html)
+  - [开发者如何善用小工具提速应用开发效率](https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/docs/articles/7_community/suibe_blockchain_center_toolbox.html)
 
 

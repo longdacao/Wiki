@@ -39,7 +39,7 @@ FISCO BCOS采用相对安全可控的联盟链技术架构，创新性提出“�
 - 社区开发者可基于共同的兴趣，自发成立[FISCO BCOS兴趣小组](https://github.com/blackflowerli/Wiki/blob/master/FISCO%20BCOS%E5%85%B4%E8%B6%A3%E5%B0%8F%E7%BB%84README.md)，围绕FISCO BCOS开发新特性、工具等，不断推进FISCO BCOS技术进步和应用场景探索。
 
 
-  - [FISCO BCOS上贸大兴趣小组](https://github.com/blackflowerli/Wiki/blob/master/FISCO%20BCOS%E4%B8%8A%E8%B4%B8%E5%A4%A7%E5%85%B4%E8%B6%A3%E5%B0%8F%E7%BB%84README.md)
+ - [FISCO BCOS上贸大兴趣小组](https://github.com/blackflowerli/Wiki/blob/master/FISCO%20BCOS%E4%B8%8A%E8%B4%B8%E5%A4%A7%E5%85%B4%E8%B6%A3%E5%B0%8F%E7%BB%84README.md)
 
 
 - 社区对100+开发教程进行汇编整理，绘制了覆盖入门→进阶→专家的[区块链学习路径](https://mp.weixin.qq.com/s/1RGKEdcGhZbjqKv7LBrAVA)。

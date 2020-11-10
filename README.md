@@ -28,9 +28,7 @@ FISCO BCOS采用相对安全可控的联盟链技术架构，创新性提出“�
 基于FISCO BCOS联盟链底层平台搭建的应用已经覆盖政务、金融、公益、医疗、教育、交通、版权、商品溯源、供应链、招聘、农业、社交、游戏等多个领域，在实践中印证了平台的可行性与健壮性。
 
 
-开源社区将各领域案例集结出品业界首部[《应用案例精编》](http://mp.weixin.qq.com/mp/homepage?__biz=MzA3MTI5Njg4Mw==&hid=1&sn=b84100f2e1f5ac6c23c48c23d487351c&scene=18#wechat_redirect)，为各行业区块链应用提供落地参考。
-
-如您有正在开发或者已经上线的项目，欢迎点击[案例征集](https://jinshuju.net/f/pA7Xqe)，社区将提供多方位支持。
+开源社区将各领域案例集结出品业界首部[《应用案例精编》](http://mp.weixin.qq.com/mp/homepage?__biz=MzA3MTI5Njg4Mw==&hid=1&sn=b84100f2e1f5ac6c23c48c23d487351c&scene=18#wechat_redirect)，为各行业区块链应用提供落地参考。如您有正在开发或者已经上线的项目，欢迎点击[案例征集](https://jinshuju.net/f/pA7Xqe)，社区将提供多方位支持。
 
 
 

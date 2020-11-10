@@ -43,8 +43,7 @@ FISCO BCOS兴趣小组是由社区开发者自愿发起和加入，开放协作�
 ## 社区兴趣小组
 
 -  [FISCO BCOS上贸大兴趣小组](https://github.com/blackflowerli/Wiki/blob/master/FISCO%20BCOS%E4%B8%8A%E8%B4%B8%E5%A4%A7%E5%85%B4%E8%B6%A3%E5%B0%8F%E7%BB%84README.md)
- 
- 小组团队照片/logo图案
+
 
 
 

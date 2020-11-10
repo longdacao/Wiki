@@ -1,9 +1,5 @@
 FISCO BCOS上贸大兴趣小组由多所院校对区块链感兴趣的学生组成，致力于成为基于分布式管理逻辑的新型组织，打造以数字身份为核心的区块链产品矩阵。
 
-- 小组系列文章——[非营利组织治理](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0NTM0MzE5Mw==&action=getalbum&album_id=1547320485804326913&scene=173&from_msgid=2247484945&from_itemidx=1&count=10#wechat_redirect&scene=0&subscene=91&sessionid=1604670168&enterid=1604670179)
-
-
-
 ## **小组成员**
 
 | **姓名** | **所属单位**                                                 | **职业**         | **擅长技能**                                                 | **个人简介/主页**                                            |
@@ -39,8 +35,9 @@ FISCO BCOS上贸大兴趣小组由多所院校对区块链感兴趣的学生组�
 
 - **近期会议**
 
-1. 会议主题：BSN第一次开发者大赛复盘会议
-2. 腾讯会议间：6761735986
+（1）会议主题：BSN第一次开发者大赛复盘会议
+
+（2）腾讯会议间：6761735986
 
 - **往期会议回顾**
 
@@ -53,3 +50,12 @@ FISCO BCOS上贸大兴趣小组由多所院校对区块链感兴趣的学生组�
 | FISCO BCOS Toolbox开发工具箱（语言：Python） | 近期发布1.0版本 |
 | DID离线统一管理工具（语言：Python）          | 开发中          |
 | 超级发证（语言：Elixir）                     | 开发中          |
+
+
+## **小组成果展示**
+
+- **开源项目**
+
+- **系列文章**
+
+  - [非营利组织治理](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0NTM0MzE5Mw==&action=getalbum&album_id=1547320485804326913&scene=173&from_msgid=2247484945&from_itemidx=1&count=10#wechat_redirect&scene=0&subscene=91&sessionid=1604670168&enterid=1604670179)

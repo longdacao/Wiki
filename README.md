@@ -38,15 +38,26 @@ FISCO BCOS采用相对安全可控的联盟链技术架构，创新性提出“�
 
 作为目前国内最大最活跃的国产开源联盟链生态圈，FISCO BCOS开源社区汇聚了众多企业机构与个人开发者，大家交流观点、碰撞想法，沟通学习区块链知识、获取区块链资讯、开拓区块链业务。
 
+- 社区建有多个技术交流群，广纳区块链极客，群内纯聊技术话题，定期分享硬核干货，探讨基于区块链技术的商业应用场景。添加小助手微信（FISCOBCOS010）进群交流。
+
+- 社区内不定期举办丰富的线上线下活动(全国巡回Meetup、黑客马拉松、社群每周举办的《超话区块链》等)，提供优质的区块链应用大赛资讯，助力挖掘与推广优质区块链项目，推动区块链技术落地应用。
+
+- 由社区开发者共创的[《深入浅出FISCO BCOS》](https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/docs/articles/index.html#id1)区块链教程上线社区文档库，涵盖了120+篇技术文章，将帮助社区开发者更好避开开发过程中遇到的各种问题；同时，开发者可以通过提PR的方式将自己的开发心得分享到文档上，让更多平台用户看到。
+
+- 社区合作伙伴基于FISCO BCOS打造了就业性强、即学即用的系统化[培训认证课程](https://mp.weixin.qq.com/s/RykuhWD28AZAIV4KqvazPQ)，助力开发者快速掌握区块链技术技能，并获得权威技术认证，持证上岗。
+
 - 社区开发者可基于共同的兴趣，自发成立[FISCO BCOS兴趣小组](https://github.com/blackflowerli/Wiki/blob/master/FISCO%20BCOS%E5%85%B4%E8%B6%A3%E5%B0%8F%E7%BB%84README.md)，围绕FISCO BCOS开发新特性、工具等，不断推进FISCO BCOS技术进步和应用场景探索。
 
 
   - [FISCO BCOS上贸大兴趣小组](https://github.com/blackflowerli/Wiki/blob/master/FISCO%20BCOS%E4%B8%8A%E8%B4%B8%E5%A4%A7%E5%85%B4%E8%B6%A3%E5%B0%8F%E7%BB%84README.md)
 
 
-- 社区对100+开发教程进行汇编整理，绘制了覆盖入门→进阶→专家的[区块链学习路径](https://mp.weixin.qq.com/s/1RGKEdcGhZbjqKv7LBrAVA)。
+- 有意向的行业伙伴可申请成为[FISCO BCOS合作伙伴](https://mp.weixin.qq.com/s/RykuhWD28AZAIV4KqvazPQ)，共同携手，推动区块链产业发展。同时，社区将为合作伙伴提供专业培训、品牌推广、技术支持等全方位支持。
 
 
-- 社区内不定期举办丰富的线上线下活动，提供优质的区块链应用大赛资讯，助力挖掘与推广优质区块链项目，推动区块链技术落地应用。
 
-- 社区建有多个技术交流群，广纳区块链极客，群内纯聊技术话题，定期分享硬核干货，探讨基于区块链技术的商业应用场景。添加小助手微信（FISCOBCOS010）进群交流。
+
+
+
+
+
